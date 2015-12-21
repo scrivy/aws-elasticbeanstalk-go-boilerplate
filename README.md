@@ -1,2 +1,2 @@
-# aws-elasticbeanstalk-go-boilerplate
+# README
 boilerplate aws elastic beanstalk go application
